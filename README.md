@@ -2,7 +2,7 @@
 
 
 
-- 🌱 Estudando Front End
+- 🌱 Desenvolvedor front end
 <br>
 <div> 
   <h2>Tecnologias utilizadas</h2>
