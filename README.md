@@ -3,7 +3,7 @@
 
 
 - Desenvolvedor front end
-- Tecnólogo em Gestão da Tecnologia da Informação
+- Cursando Tecnólogo em Gestão da Tecnologia da Informação
 <br>
 <div> 
   <h2>Tecnologias utilizadas</h2>
